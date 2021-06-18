@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-androidgraphql-dev-134220-authRole",
+      "UnauthRoleArn": "arn:aws:iam::759607789213:role/amplify-androidgraphql-dev-134220-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::759607789213:role/amplify-androidgraphql-dev-134220-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-androidgraphql-dev-134220-deployment",
+      "UnauthRoleName": "amplify-androidgraphql-dev-134220-unauthRole",
+      "StackName": "amplify-androidgraphql-dev-134220",
+      "StackId": "arn:aws:cloudformation:us-west-2:759607789213:stack/amplify-androidgraphql-dev-134220/5ad18270-cee3-11eb-b44f-0a8325478617",
+      "AmplifyAppId": "dpof4ntzb43zy"
+    }
+  }
+}
